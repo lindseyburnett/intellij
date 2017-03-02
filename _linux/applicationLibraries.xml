@@ -1,0 +1,43 @@
+<application>
+  <component name="libraryTable">
+    <library name="RVM: jruby-9.0.5.0 [global] facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </SOURCES>
+    </library>
+    <library name="RVM: jruby-9.0.5.0 [jekyll] facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </SOURCES>
+    </library>
+    <library name="RVM: jruby-9.0.5.0 facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

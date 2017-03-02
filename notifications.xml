@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Framework Detection" shouldLog="false" />
+    <notification groupId="Maven: non-managed pom.xml" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
